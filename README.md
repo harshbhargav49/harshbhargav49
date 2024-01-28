@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/harshbhargav_49" target="blank"><img src="https://img.shields.io/twitter/follow/harshbhargav_49?logo=twitter&style=for-the-badge" alt="harshbhargav_49" /></a> </p>
 
-- 🔭 I’m currently working on [Ikea Furniture Clone Project](https://harshbhargav49.github.io/Furniture-website2/)
-
-- 🌱 I’m currently learning **Js, Framework**
-
 - 👨‍💻 All of my projects are available at [https://harshbhargav49.github.io/My-Portfolio/](https://harshbhargav49.github.io/My-Portfolio/)
-
+- 🔭 I’m currently working on [Ikea Furniture Clone Project](https://harshbhargav49.github.io/Furniture-website2/)
+- 💡 I like to explore new technologies.
+- 🌱 I’m currently learning **Js, Framework**
 - 💬 Ask me about **HTML, CSS, JS**
+- ⚙️ I love tech things.
+- 🎮 Valorant.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
