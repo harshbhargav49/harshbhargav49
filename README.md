@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhargav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
@@ -9,12 +9,12 @@
 <p align="left"> <a href="https://twitter.com/harshbhargav_49" target="blank"><img src="https://img.shields.io/twitter/follow/harshbhargav_49?logo=twitter&style=for-the-badge" alt="harshbhargav_49" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://harshbhargav49.github.io/My-Portfolio/](https://harshbhargav49.github.io/My-Portfolio/)
-- 🔭 I’m currently working on [Ikea Furniture Clone Project](https://harshbhargav49.github.io/Furniture-website2/)
+- 🔭 I’m currently working on [Amazon Clone Project](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
 - 💡 I like to explore new technologies.
 - 🌱 I’m currently learning **Js, Framework**
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS & backend**
 - ⚙️ I love tech things.
-- 🎮 Valorant.
+- 🎮 Playing Game - Valorant.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
