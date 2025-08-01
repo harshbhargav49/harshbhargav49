@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on [Amazon Clone Project](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
 - 💡 I like to explore new technologies.
 - 🌱 I’m currently learning **Js, Framework**
-- 💬 Ask me about **HTML, CSS, JS & backend**
+- 💬 Ask me about **HTML, CSS, Javascript and React.js**
 - ⚙️ I love tech things.
 - 🎮 Playing Game - Valorant.
 
