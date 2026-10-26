@@ -1,118 +1,117 @@
 
 <div align="center">
 
-# Hi 👋, I'm Harsh Bhargav
+# `HARSH.EXE`
 
-### Full Stack Developer from India 🇮🇳
+### Full Stack Developer · Builder · Problem Solver
 
-Building projects, learning new technologies, and turning ideas into reality.
+**I turn ideas into working software.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshbhargav49&label=Profile%20Views&color=0e75b6&style=flat)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harshcodes.com/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshbhargav49)
+[![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-57F287?style=for-the-badge&logo=googlechrome&logoColor=0B0F10)](https://harshcodes.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-111816?style=for-the-badge&logo=github&logoColor=57F287)](https://github.com/harshbhargav49)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+### `01 / SYSTEM PROFILE`
 
-## 👨‍💻 About Me
+```text
+USER       : Harsh Bhargav
+ROLE       : Full Stack Developer
+EDUCATION  : MCA @ TIMSCDR
+FOCUS      : MERN Stack + Java
+CURRENTLY  : Learning DSA & building projects
+STATUS     : Always building something new
+```
 
-- 🎓 Pursuing MCA at TIMSCDR.
-- 💻 Focused on Full Stack Development.
-- 🌱 Learning **JavaScript, React and backend development**.
-- 🧠 Improving DSA and problem-solving.
-- 💡 Love exploring new technologies.
-- 🎮 Gaming enthusiast — Valorant.
-
-<br clear="both"/>
-
----
-
-## 🚀 Featured Projects
+### `02 / DEPLOYED PROJECTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Tile Showroom CRM
+**01 — TILE SHOWROOM CRM**
 
 A management solution for tile showroom operations.
 
-[**View Project →**](https://hrjohnsontile-crm.up.railway.app/)
+[ACCESS PROJECT ↗](https://hrjohnsontile-crm.up.railway.app/)
+
+`WEB APP` `CRM`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+**02 — HARSHCODES.COM**
 
-Explore my skills, projects, and developer journey.
+My personal developer portfolio.
 
-[**Visit Portfolio →**](https://harshcodes.com/)
+[ACCESS PORTFOLIO ↗](https://harshcodes.com/)
+
+`PORTFOLIO` `WEB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Amazon Clone
+**03 — AMAZON CLONE**
 
 An e-commerce interface inspired by Amazon.
 
-[**View Project →**](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
+[VIEW PROJECT ↗](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
+
+`FRONTEND` `E-COMMERCE`
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 More Projects
+**04 — MORE EXPERIMENTS**
 
-Explore my other repositories on GitHub.
+Explore my repositories and other builds.
 
-[**View All Repositories →**](https://github.com/harshbhargav49?tab=repositories)
+[OPEN REPOSITORIES ↗](https://github.com/harshbhargav49?tab=repositories)
+
+`CODE` `EXPERIMENTS`
 
 </td>
 </tr>
 </table>
 
----
-
-## 🐍 GitHub Contribution Snake
+### `03 / TECH ARSENAL`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+**FRONTEND**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)
+
+**BACKEND & DATABASE**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
+**LANGUAGES & TOOLS**
+
+![Tools](https://skillicons.dev/icons?i=java,cpp,git,github,vscode)
 
 </div>
 
----
-
-## 🛠️ Languages & Tools
+### `04 / CONTRIBUTION GRID`
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,cpp,git,github,vscode&perline=5)](https://skillicons.dev)
+![Contribution Snake](https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
----
-
-## 🤝 Connect With Me
+### `05 / ESTABLISH CONNECTION`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-bhargav-8ab735217)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0F10?style=flat&logo=linkedin&logoColor=57F287)](https://linkedin.com/in/harsh-bhargav-8ab735217)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0B0F10?style=flat&logo=instagram&logoColor=57F287)](https://instagram.com/harsh._49)
+[![GitHub](https://img.shields.io/badge/GITHUB-0B0F10?style=flat&logo=github&logoColor=57F287)](https://github.com/harshbhargav49)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/harsh._49)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshbhargav49)
-
-### 💻 Always Learning. Always Building. 🚀
+`END OF TRANSMISSION_`
 
 </div>
