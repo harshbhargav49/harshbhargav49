@@ -21,7 +21,7 @@
 ```text
 USER       : Harsh Bhargav
 ROLE       : Full Stack Developer
-EDUCATION  : Pursiong MCA @TIMSCDR
+EDUCATION  : MCA @ TIMSCDR
 FOCUS      : MERN Stack + Java
 CURRENTLY  : Learning DSA & building projects
 STATUS     : Always building something new
@@ -30,9 +30,9 @@ LOCATION   : India
 
 ### `02 / ABOUT ME`
 
-Hey! I'm **Harsh Bhargav**, an MCA student at TIMSCDR and an aspiring Full Stack Developer from India 🇮🇳
+Hey! I'm **Harsh Bhargav**, an MCA student at TIMSCDR and a Full Stack Developer from India 🇮🇳
 
-I enjoy turning ideas into practical web applications and exploring how things work behind the code. My current focus is on **Full Stack Development and Java**, while continuously improving my problem-solving skills through DSA.
+I enjoy turning ideas into practical web applications and exploring how things work behind the code. My focus is on **Full Stack Development and Java**, while continuously improving my problem-solving skills through DSA.
 
 I believe in learning by building. Every project is an opportunity to explore new technologies, strengthen my fundamentals, and create something useful.
 
@@ -93,17 +93,34 @@ Explore my repositories, experiments, and other development work.
 
 ### `04 / TECH ARSENAL`
 
-<div align="center">
+**🔹 Frontend Technologies**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,cpp,git,github,vscode&perline=15" height="38" alt="Tech Stack"/>
+[![HTML5](https://img.shields.io/badge/HTML5-1c1c24?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1c1c24?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1c1c24?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-1c1c24?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-1c1c24?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-1c1c24?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 
-</div>
+**🔹 Tools & Platforms**
 
-**Frontend:** HTML · CSS · JavaScript · React · Tailwind CSS · Bootstrap
+[![Git](https://img.shields.io/badge/Git-1c1c24?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-1c1c24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS_Code](https://img.shields.io/badge/VS_Code-1c1c24?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-1c1c24?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-1c1c24?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
 
-**Backend & Database:** Node.js · Express.js · MongoDB · MySQL
+**🔹 Currently Learning**
 
-**Languages & Tools:** Java · C++ · Git · GitHub · VS Code
+[![Node.js](https://img.shields.io/badge/Node.js-1c1c24?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-1c1c24?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-1c1c24?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![REST_APIs](https://img.shields.io/badge/REST_APIs-1c1c24?style=for-the-badge&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+**🔹 Programming Languages**
+
+[![Java](https://img.shields.io/badge/Java-1c1c24?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C%2B%2B-1c1c24?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
 
 ---
 
@@ -127,7 +144,7 @@ Explore my repositories, experiments, and other development work.
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-bhargav-8ab735217)
 
-**Let's connect and build something great.**
+**LET'S BUILD SOMETHING GREAT.**
 
 `END OF TRANSMISSION_`
 
