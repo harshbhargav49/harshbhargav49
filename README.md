@@ -19,7 +19,7 @@
 ```text
 USER       : Harsh Bhargav
 ROLE       : Full Stack Developer
-EDUCATION  : MCA @ TIMSCDR
+EDUCATION  : Pursuing MCA @TIMSCDR
 FOCUS      : MERN Stack + Java
 CURRENTLY  : Learning DSA & building projects
 STATUS     : Always building something new
