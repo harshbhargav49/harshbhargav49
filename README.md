@@ -1,44 +1,115 @@
-<h1 align="center">Hi 👋, I'm Harsh Bhargav</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<div align="center">
 
+# Hi 👋, I'm Harsh Bhargav
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshbhargav49&label=Profile%20views&color=0e75b6&style=flat" alt="harshbhargav49" /> </p>
+### Full Stack Developer from India 🇮🇳
 
-<p align="left"> <a href="https://twitter.com/harshbhargav_49" target="blank"><img src="https://img.shields.io/twitter/follow/harshbhargav_49?logo=twitter&style=for-the-badge" alt="harshbhargav_49" /></a> </p>
+Building projects, learning new technologies, and turning ideas into reality.
 
-- 👨‍💻 All of my projects are available at [https://harshbhargav49.github.io/My-Portfolio/](https://harshbhargav49.github.io/My-Portfolio/)
-- 🔭 I’m currently working on [Amazon Clone Project](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
-- 💡 I like to explore new technologies.
-- 🌱 I’m currently learning **Js, Framework**
-- 💬 Ask me about **HTML, CSS, Javascript and React.js**
-- ⚙️ I love tech things.
-- 🎮 Playing Game - Valorant.
+![Profile Views](https://komarev.com/ghpvc/?username=harshbhargav49&label=Profile%20Views&color=0e75b6&style=flat)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harshbhargav49.github.io/Harsh-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshbhargav49)
 
-<h2 align="left">🐍 GitHub Contribution Snake</h2>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshbhargav_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshbhargav_49" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh-bhargav-8ab735217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-bhargav-8ab735217" height="30" width="40" /></a>
-<a href="https://instagram.com/harsh._49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh._49" height="30" width="40" /></a>
-</p>
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshbhargav49&show_icons=true&locale=en&layout=compact" alt="harshbhargav49" /></p>
+- 🎓 Pursuing MCA at TIMSCDR.
+- 💻 Focused on Full Stack Development.
+- 🌱 Learning **JavaScript, React and backend development**.
+- 🧠 Improving DSA and problem-solving.
+- 💡 Love exploring new technologies.
+- 🎮 Gaming enthusiast — Valorant.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshbhargav49&show_icons=true&locale=en" alt="harshbhargav49" /></p>
+<br clear="both"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshbhargav49&" alt="harshbhargav49" /></p>
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Tile Showroom CRM
+
+A management solution for tile showroom operations.
+
+[**View Project →**](YOUR_TILE_CRM_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+Explore my skills, projects, and developer journey.
+
+[**Visit Portfolio →**](https://harshbhargav49.github.io/Harsh-Portfolio/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Amazon Clone
+
+An e-commerce interface inspired by Amazon.
+
+[**View Project →**](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 More Projects
+
+Explore my other repositories on GitHub.
+
+[**View All Repositories →**](https://github.com/harshbhargav49?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,cpp,git,github,vscode&perline=5)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-bhargav-8ab735217)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/harsh._49)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshbhargav49)
+
+### 💻 Always Learning. Always Building. 🚀
+
+</div>
