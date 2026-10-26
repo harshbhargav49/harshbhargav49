@@ -16,6 +16,17 @@
 - ⚙️ I love tech things.
 - 🎮 Playing Game - Valorant.
 
+
+<h2 align="left">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshbhargav_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshbhargav_49" height="30" width="40" /></a>
