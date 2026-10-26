@@ -132,7 +132,7 @@ Explore my repositories, experiments, and other development work.
 ### `05 / CONTRIBUTION GRID`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Moving snake animation"/>
+  <img src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" alt="Moving snake animation"/>
 </div>
 
 ---
