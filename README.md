@@ -8,7 +8,7 @@
 **I turn ideas into working software.**
 
 [![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-57F287?style=for-the-badge&logo=googlechrome&logoColor=0B0F10)](https://harshcodes.com/)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181816?style=for-the-badge&logo=github&logoColor=57F287)](https://github.com/harshbhargav49)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-111816?style=for-the-badge&logo=github&logoColor=57F287)](https://github.com/harshbhargav49)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshbhargav49&label=PROFILE%20VIEWS&color=0e75b6&style=flat)
 
@@ -32,7 +32,7 @@ LOCATION   : India
 
 Hey! I'm **Harsh Bhargav**, an MCA student at TIMSCDR and an aspiring Full Stack Developer from India 🇮🇳
 
-I enjoy turning ideas into practical web applications and exploring how things work behind the code. My current focus is on **MERN Stack development and Java**, while continuously improving my problem-solving skills through DSA.
+I enjoy turning ideas into practical web applications and exploring how things work behind the code. My current focus is on **Full Stack Development and Java**, while continuously improving my problem-solving skills through DSA.
 
 I believe in learning by building. Every project is an opportunity to explore new technologies, strengthen my fundamentals, and create something useful.
 
@@ -65,7 +65,7 @@ A CRM application designed for tile showroom operations.
 
 My personal developer portfolio showcasing my skills and projects.
 
-**Tech:** HTML · CSS · JavaScript *(update if needed)*
+**Tech:** HTML · CSS · JavaScript
 
 - Created a dedicated space to showcase my development work.
 - Organized portfolio content to make projects easy to explore.
@@ -85,7 +85,7 @@ An e-commerce interface inspired by Amazon.
 
 **◆ More Projects**
 
-Explore my other repositories, experiments, and development work.
+Explore my repositories, experiments, and other development work.
 
 [**View All Repositories ↗**](https://github.com/harshbhargav49?tab=repositories)
 
@@ -95,19 +95,15 @@ Explore my other repositories, experiments, and development work.
 
 <div align="center">
 
-**FRONTEND DEVELOPMENT**
-
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)
-
-**BACKEND & DATABASE**
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
-
-**LANGUAGES & TOOLS**
-
-![Tools](https://skillicons.dev/icons?i=java,cpp,git,github,vscode)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,java,cpp,git,github,vscode&perline=15" height="38" alt="Tech Stack"/>
 
 </div>
+
+**Frontend:** HTML · CSS · JavaScript · React · Tailwind CSS · Bootstrap
+
+**Backend & Database:** Node.js · Express.js · MongoDB · MySQL
+
+**Languages & Tools:** Java · C++ · Git · GitHub · VS Code
 
 ---
 
