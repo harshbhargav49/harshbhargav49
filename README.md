@@ -21,7 +21,7 @@
 ```text
 USER       : Harsh Bhargav
 ROLE       : Full Stack Developer
-EDUCATION  : Pursiong MCA @TIMSCDR
+EDUCATION  : Pursuing MCA @ TIMSCDR
 FOCUS      : MERN Stack + Java
 CURRENTLY  : Learning DSA & building projects
 STATUS     : Always building something new
@@ -132,7 +132,7 @@ Explore my repositories, experiments, and other development work.
 ### `05 / CONTRIBUTION GRID`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/main/.github/workflows/harsh-moving-snake.svg" width="100%" alt="Moving snake animation"/>
+  <img src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Moving snake animation"/>
 </div>
 
 ---
