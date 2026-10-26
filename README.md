@@ -128,16 +128,15 @@ Explore my repositories, experiments, and other development work.
 
 ---
 
+
 ### `05 / CONTRIBUTION GRID`
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
+  <img
+    src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/main/harsh-moving-snake.svg"
+    width="100%"
+    alt="Moving snake animation"
+  />
 </div>
 
 ---
