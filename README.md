@@ -3,7 +3,7 @@
 
 # `HARSH.EXE`
 
-### Full Stack Developer · Builder · Problem Solver
+### Full Stack Developer · MERN Stack + Java
 
 **I turn ideas into working software.**
 
@@ -21,7 +21,7 @@
 ```text
 USER       : Harsh Bhargav
 ROLE       : Full Stack Developer
-EDUCATION  : MCA @ TIMSCDR
+EDUCATION  : Pursiong MCA @TIMSCDR
 FOCUS      : MERN Stack + Java
 CURRENTLY  : Learning DSA & building projects
 STATUS     : Always building something new
