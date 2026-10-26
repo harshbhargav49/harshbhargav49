@@ -8,7 +8,9 @@
 **I turn ideas into working software.**
 
 [![Portfolio](https://img.shields.io/badge/OPEN_PORTFOLIO-57F287?style=for-the-badge&logo=googlechrome&logoColor=0B0F10)](https://harshcodes.com/)
-[![GitHub](https://img.shields.io/badge/GITHUB-111816?style=for-the-badge&logo=github&logoColor=57F287)](https://github.com/harshbhargav49)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181816?style=for-the-badge&logo=github&logoColor=57F287)](https://github.com/harshbhargav49)
+
+![Profile Views](https://komarev.com/ghpvc/?username=harshbhargav49&label=PROFILE%20VIEWS&color=0e75b6&style=flat)
 
 </div>
 
@@ -19,7 +21,7 @@
 ```text
 USER       : Harsh Bhargav
 ROLE       : Full Stack Developer
-EDUCATION  : Pursuing MCA @TIMSCDR
+EDUCATION  : MCA @ TIMSCDR
 FOCUS      : MERN Stack + Java
 CURRENTLY  : Learning DSA & building projects
 STATUS     : Always building something new
@@ -32,71 +34,60 @@ Hey! I'm **Harsh Bhargav**, an MCA student at TIMSCDR and an aspiring Full Stack
 
 I enjoy turning ideas into practical web applications and exploring how things work behind the code. My current focus is on **MERN Stack development and Java**, while continuously improving my problem-solving skills through DSA.
 
-I believe in learning by building — from developing a **Tile Showroom CRM** to creating my own developer portfolio, every project is an opportunity to learn something new.
+I believe in learning by building. Every project is an opportunity to explore new technologies, strengthen my fundamentals, and create something useful.
 
 **CURRENT MISSION**
 
 - ⚡ Build useful, real-world applications.
 - 🧠 Strengthen DSA and software engineering fundamentals.
-- 🚀 Grow as a Full Stack Developer and explore new technologies.
+- 🚀 Grow as a Full Stack Developer.
 - 🤝 Connect with developers and collaborate on interesting ideas.
 
 > *Code. Learn. Build. Repeat.*
 
 ---
 
-### `03 / DEPLOYED PROJECTS`
+### `03 / KEY PROJECTS`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**◆ Tile Showroom CRM**
 
-<h3>01 — TILE SHOWROOM CRM</h3>
+A CRM application designed for tile showroom operations.
 
-A management solution for tile showroom operations.
+**Tech:** Web Development · CRM
 
-**TYPE:** Web Application / CRM
+- Developed a web application for tile showroom management.
+- Focused on simplifying showroom workflows and operations.
+- Deployed the application for online access.
 
-[ACCESS PROJECT ↗](https://hrjohnsontile-crm.up.railway.app/)
+[**Live Demo ↗**](https://hrjohnsontile-crm.up.railway.app/)
 
-</td>
-<td width="50%" valign="top">
+**◆ Personal Portfolio — harshcodes.com**
 
-<h3>02 — HARSHCODES.COM</h3>
+My personal developer portfolio showcasing my skills and projects.
 
-My personal developer portfolio showcasing my work and skills.
+**Tech:** HTML · CSS · JavaScript *(update if needed)*
 
-**TYPE:** Developer Portfolio
+- Created a dedicated space to showcase my development work.
+- Organized portfolio content to make projects easy to explore.
 
-[ACCESS PORTFOLIO ↗](https://harshcodes.com/)
+[**Visit Portfolio ↗**](https://harshcodes.com/)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 — AMAZON CLONE</h3>
+**◆ Amazon Clone**
 
 An e-commerce interface inspired by Amazon.
 
-**TYPE:** Frontend / E-commerce
+**Tech:** Frontend Development
 
-[VIEW PROJECT ↗](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
+- Built an e-commerce-style user interface.
+- Practised frontend development and UI implementation.
 
-</td>
-<td width="50%" valign="top">
+[**View Project ↗**](https://harshbhargav49.github.io/Amazon-Clone-Project---2024/)
 
-<h3>04 — MORE EXPERIMENTS</h3>
+**◆ More Projects**
 
-Explore my repositories, experiments, and other builds.
+Explore my other repositories, experiments, and development work.
 
-**TYPE:** Development Projects
-
-[OPEN REPOSITORIES ↗](https://github.com/harshbhargav49?tab=repositories)
-
-</td>
-</tr>
-</table>
+[**View All Repositories ↗**](https://github.com/harshbhargav49?tab=repositories)
 
 ---
 
@@ -124,23 +115,23 @@ Explore my repositories, experiments, and other builds.
 
 <div align="center">
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
 ---
 
-### `06 / ESTABLISH CONNECTION`
+### `06 / CONNECT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0F10?style=for-the-badge&logo=linkedin&logoColor=57F287)](https://linkedin.com/in/harsh-bhargav-8ab735217)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-bhargav-8ab735217)
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0B0F10?style=for-the-badge&logo=instagram&logoColor=57F287)](https://instagram.com/harsh._49)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-0B0F10?style=for-the-badge&logo=github&logoColor=57F287)](https://github.com/harshbhargav49)
-
-**LET'S BUILD SOMETHING GREAT.**
+**Let's connect and build something great.**
 
 `END OF TRANSMISSION_`
 
