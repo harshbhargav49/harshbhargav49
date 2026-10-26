@@ -31,20 +31,6 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -89,6 +75,20 @@ Explore my other repositories on GitHub.
 </td>
 </tr>
 </table>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshbhargav49/harshbhargav49/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
 
 ---
 
