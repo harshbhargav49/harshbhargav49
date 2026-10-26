@@ -93,34 +93,39 @@ Explore my repositories, experiments, and other development work.
 
 ### `04 / TECH ARSENAL`
 
-**🔹 Frontend Technologies**
+**🎨 Frontend Technologies**
 
 [![HTML5](https://img.shields.io/badge/HTML5-1c1c24?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1c1c24?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-1c1c24?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-1c1c24?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-1c1c24?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1c1c24?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-1c1c24?style=for-the-badge&logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com/)
 
-**🔹 Tools & Platforms**
-
-[![Git](https://img.shields.io/badge/Git-1c1c24?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-1c1c24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS_Code](https://img.shields.io/badge/VS_Code-1c1c24?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-1c1c24?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-1c1c24?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
-
-**🔹 Currently Learning**
+**⚙️ Backend Technologies**
 
 [![Node.js](https://img.shields.io/badge/Node.js-1c1c24?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-1c1c24?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-1c1c24?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
-[![REST_APIs](https://img.shields.io/badge/REST_APIs-1c1c24?style=for-the-badge&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-1c1c24?style=for-the-badge&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-**🔹 Programming Languages**
+**🗄️ Databases**
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-1c1c24?style=for-the-badge&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-1c1c24?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+
+**💻 Programming Languages**
 
 [![Java](https://img.shields.io/badge/Java-1c1c24?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-1c1c24?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-1c1c24?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+**🛠️ Tools & Platforms**
+
+[![Git](https://img.shields.io/badge/Git-1c1c24?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-1c1c24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-1c1c24?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-1c1c24?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-1c1c24?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
 
 ---
 
