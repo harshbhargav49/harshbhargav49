@@ -9,7 +9,8 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harshbhargav49&label=Profile%20Views&color=0e75b6&style=flat)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harshbhargav49.github.io/Harsh-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harshcodes.com/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshbhargav49)
 
 </div>
@@ -107,7 +108,9 @@ Explore my other repositories on GitHub.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harsh-bhargav-8ab735217)
+
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/harsh._49)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/harshbhargav49)
 
 ### 💻 Always Learning. Always Building. 🚀
