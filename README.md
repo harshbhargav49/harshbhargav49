@@ -21,7 +21,7 @@
 ```text
 USER       : Harsh Bhargav
 ROLE       : Full Stack Developer
-EDUCATION  : MCA @ TIMSCDR
+EDUCATION  : Pursiong MCA @TIMSCDR
 FOCUS      : MERN Stack + Java
 CURRENTLY  : Learning DSA & building projects
 STATUS     : Always building something new
@@ -117,7 +117,6 @@ Explore my repositories, experiments, and other development work.
 
 [![Java](https://img.shields.io/badge/Java-1c1c24?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C%2B%2B-1c1c24?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-1c1c24?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **🛠️ Tools & Platforms**
 
