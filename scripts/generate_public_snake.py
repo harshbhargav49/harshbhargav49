@@ -5,10 +5,11 @@ import re
 import urllib.request
 from pathlib import Path
 
-USERNAME = os.environ.get("GITHUB_USERNAME", "harshbhargav49")
+USERNAME = os.environ.get("GITHUB_USERNAME", "harshbhargav49").strip()
 LEVEL_COLORS = {0: "#161b22", 1: "#0e4429", 2: "#006d32", 3: "#26a641", 4: "#39d353"}
 
 class CalendarParser(html.parser.HTMLParser):
+    """Read the public contribution calendar that GitHub renders on profile pages."""
     def __init__(self):
         super().__init__()
         self.days = {}
@@ -17,13 +18,15 @@ class CalendarParser(html.parser.HTMLParser):
         a = dict(attrs)
         if tag == "td" and "ContributionCalendar-day" in a.get("class", ""):
             date_text, level_text = a.get("data-date"), a.get("data-level")
-            if date_text and level_text is not None and re.fullmatch(r"\\d{4}-\\d{2}-\\d{2}", date_text):
+            if date_text and level_text is not None and re.fullmatch(r"\d{4}-\d{2}-\d{2}", date_text):
                 try:
                     self.days[dt.date.fromisoformat(date_text)] = max(0, min(4, int(level_text)))
                 except ValueError:
                     pass
 
 def main():
+    if not USERNAME:
+        raise RuntimeError("GITHUB_USERNAME must be set.")
     url = f"https://github.com/users/{USERNAME}/contributions"
     request = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (compatible; HarshPurpleSnake/1.0)",
@@ -36,7 +39,10 @@ def main():
     parser.feed(page)
     days = parser.days
     if len(days) < 300:
-        raise RuntimeError(f"Expected at least 300 real contribution cells; parsed {len(days)}. GitHub may have changed its page markup.")
+        raise RuntimeError(
+            f"Expected at least 300 real contribution cells; parsed {len(days)}. "
+            "GitHub may have changed its page markup or rate-limited the request."
+        )
 
     earliest, latest = min(days), max(days)
     start = earliest - dt.timedelta(days=(earliest.weekday() + 1) % 7)
@@ -46,37 +52,51 @@ def main():
     step = cell + gap
     width = margin * 2 + columns * cell + (columns - 1) * gap
     height = margin * 2 + rows * cell + (rows - 1) * gap
-    svg = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Actual GitHub contributions with a moving purple snake">',
-           '<rect width="100%" height="100%" rx="8" fill="#0d1117"/>']
+    svg = [
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Actual GitHub contributions with a moving purple snake">',
+        '<rect width="100%" height="100%" rx="8" fill="#0d1117"/>'
+    ]
 
+    # Each cell is drawn from GitHub's real visible contribution level.
     for col in range(columns):
         for row in range(rows):
             day = start + dt.timedelta(days=col * 7 + row)
             x, y = margin + col * step, margin + row * step
             level = days.get(day, 0)
-            svg.append(f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{LEVEL_COLORS[level]}"><title>{day.isoformat()}: contribution level {level}</title></rect>')
+            svg.append(
+                f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2" fill="{LEVEL_COLORS[level]}">'
+                f'<title>{day.isoformat()}: contribution level {level}</title></rect>'
+            )
 
-    # Sweep over every row and connect the end back around the top/right edge.
+    # Create a serpentine route across all rows, then close the loop around the top-right edge.
     route = []
     for row in range(rows):
-        cols = range(columns) if row % 2 == 0 else range(columns - 1, -1, -1)
-        for col in cols:
+        col_range = range(columns) if row % 2 == 0 else range(columns - 1, -1, -1)
+        for col in col_range:
             route.append((margin + col * step + cell / 2, margin + row * step + cell / 2))
     sx, sy = route[0]
     ex, ey = route[-1]
     route.extend([(ex + cell + gap, ey), (ex + cell + gap, margin - 5), (sx, margin - 5), (sx, sy)])
     path = "M " + " L ".join(f"{x:.1f},{y:.1f}" for x, y in route)
-    length = sum(((b[0]-a[0])**2 + (b[1]-a[1])**2)**0.5 for a, b in zip(route, route[1:]))
+    length = sum(((b[0] - a[0]) ** 2 + (b[1] - a[1]) ** 2) ** 0.5 for a, b in zip(route, route[1:]))
     duration = 38.0
     delay_step = 13.0 / (length / duration)
-    for i, color in enumerate(["#f0abfc", "#e879f9", "#d946ef", "#c026d3", "#a21caf", "#86198f", "#701a75"]):
-        size = 11
-        delay = -i * delay_step
-        svg.append(f'<rect x="-{size/2:.1f}" y="-{size/2:.1f}" width="{size}" height="{size}" rx="2.8" fill="{color}" stroke="#0d1117" stroke-width="0.4"><animateMotion dur="{duration}s" begin="{delay:.3f}s" repeatCount="indefinite" calcMode="paced" rotate="0" path="{path}"/></rect>')
+
+    # Purple squares move above the grid. They do not change or remove any contribution cell.
+    snake_colors = ["#f0abfc", "#e879f9", "#d946ef", "#c026d3", "#a21caf", "#86198f", "#701a75"]
+    size = 11
+    for index, color in enumerate(snake_colors):
+        delay = -index * delay_step
+        svg.append(
+            f'<rect x="{-size / 2:.1f}" y="{-size / 2:.1f}" width="{size}" height="{size}" rx="2.8" '
+            f'fill="{color}" stroke="#0d1117" stroke-width="0.4">'
+            f'<animateMotion dur="{duration}s" begin="{delay:.3f}s" repeatCount="indefinite" '
+            f'calcMode="paced" rotate="0" path="{path}"/></rect>'
+        )
 
     svg.append("</svg>")
     Path("dist").mkdir(exist_ok=True)
-    Path("dist/github-contribution-grid-snake-dark.svg").write_text("\\n".join(svg), encoding="utf-8")
+    Path("dist/github-contribution-grid-snake-dark.svg").write_text("\n".join(svg), encoding="utf-8")
     print(f"Generated real contribution grid for @{USERNAME} with a non-eating purple snake.")
 
 if __name__ == "__main__":
