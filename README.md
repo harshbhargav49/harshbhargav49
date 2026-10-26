@@ -41,7 +41,7 @@ Building projects, learning new technologies, and turning ideas into reality.
 
 A management solution for tile showroom operations.
 
-[**View Project →**](YOUR_TILE_CRM_LINK)
+[**View Project →**](https://hrjohnsontile-crm.up.railway.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -50,7 +50,7 @@ A management solution for tile showroom operations.
 
 Explore my skills, projects, and developer journey.
 
-[**Visit Portfolio →**](https://harshbhargav49.github.io/Harsh-Portfolio/)
+[**Visit Portfolio →**](https://harshcodes.com/)
 
 </td>
 </tr>
